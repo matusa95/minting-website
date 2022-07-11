@@ -1,0 +1,23 @@
+{
+  "name": "nft-landing-page",
+  "version": "1.0.0",
+  "description": "This repo pairs with the Mint 10k NFT project.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matusa95/nft-landing-page.git"
+  },
+  "keywords": [],
+  "author": "Marco Tusa (Flume)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matusa95/nft-landing-page/issues"
+  },
+  "homepage": "https://github.com/matusa95/nft-landing-page#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
