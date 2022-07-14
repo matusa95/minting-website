@@ -10,7 +10,7 @@ This repo is a work-in-progress and pairs with my Mint 10k NFT project.
 
 ### How enable the minting from your website!
 
-🚀 [How to embed an NFT Minting Button in your Website | Download the code!!](https://youtu.be/-EB2TTQxSWc)
+🚀 [How to build a Button to let users Mint NFT from Your Website | Download the code!!](https://youtu.be/DOO7mVg0Qog)
 
 Art generator code is from [Flume](https://www.getflume.app)
 
